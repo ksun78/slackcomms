@@ -1,0 +1,193 @@
+Name,Year,Month,Conversations Started,Conversations Received
+Ben Cogan,2019,1,0,0
+Ben Cogan,2019,2,1,0
+Ben Cogan,2019,3,1,0
+Ben Cogan,2019,4,0,3
+Ben Cogan,2019,5,2,1
+Ben Cogan,2019,6,0,3
+Ben Cogan,2019,7,0,2
+Ben Cogan,2019,8,4,1
+Ben Cogan,2019,9,2,1
+Ben Cogan,2019,10,1,2
+Ben Cogan,2019,11,0,3
+Ben Cogan,2019,12,0,1
+Ben Cogan,2020,1,1,1
+Ben Cogan,2020,2,1,1
+Ben Cogan,2020,3,1,2
+Ben Cogan,2020,4,1,1
+Ben Cogan,2020,5,3,1
+Ben Cogan,2020,6,0,2
+Ben Cogan,2020,7,0,1
+Ben Cogan,2020,8,0,0
+Ben Cogan,2020,9,0,0
+Ben Cogan,2020,10,0,0
+Ben Cogan,2020,11,0,0
+Ben Cogan,2020,12,0,0
+John,2019,1,0,0
+John,2019,2,0,0
+John,2019,3,1,2
+John,2019,4,4,2
+John,2019,5,5,2
+John,2019,6,5,3
+John,2019,7,4,4
+John,2019,8,3,3
+John,2019,9,5,6
+John,2019,10,5,6
+John,2019,11,8,4
+John,2019,12,2,5
+John,2020,1,2,8
+John,2020,2,6,2
+John,2020,3,6,6
+John,2020,4,5,4
+John,2020,5,6,4
+John,2020,6,5,6
+John,2020,7,7,3
+John,2020,8,0,0
+John,2020,9,0,0
+John,2020,10,0,0
+John,2020,11,0,0
+John,2020,12,0,0
+Jesse Horwitz,2019,1,0,0
+Jesse Horwitz,2019,2,0,1
+Jesse Horwitz,2019,3,1,0
+Jesse Horwitz,2019,4,2,1
+Jesse Horwitz,2019,5,1,3
+Jesse Horwitz,2019,6,2,1
+Jesse Horwitz,2019,7,2,0
+Jesse Horwitz,2019,8,2,2
+Jesse Horwitz,2019,9,2,1
+Jesse Horwitz,2019,10,0,3
+Jesse Horwitz,2019,11,0,3
+Jesse Horwitz,2019,12,0,2
+Jesse Horwitz,2020,1,1,0
+Jesse Horwitz,2020,2,0,2
+Jesse Horwitz,2020,3,0,2
+Jesse Horwitz,2020,4,1,1
+Jesse Horwitz,2020,5,0,3
+Jesse Horwitz,2020,6,0,1
+Jesse Horwitz,2020,7,0,2
+Jesse Horwitz,2020,8,0,0
+Jesse Horwitz,2020,9,0,0
+Jesse Horwitz,2020,10,0,0
+Jesse Horwitz,2020,11,0,0
+Jesse Horwitz,2020,12,0,0
+Dan Rosen,2019,1,0,0
+Dan Rosen,2019,2,0,0
+Dan Rosen,2019,3,0,0
+Dan Rosen,2019,4,2,1
+Dan Rosen,2019,5,0,2
+Dan Rosen,2019,6,2,3
+Dan Rosen,2019,7,2,3
+Dan Rosen,2019,8,1,4
+Dan Rosen,2019,9,4,2
+Dan Rosen,2019,10,1,5
+Dan Rosen,2019,11,2,3
+Dan Rosen,2019,12,2,2
+Dan Rosen,2020,1,3,0
+Dan Rosen,2020,2,0,2
+Dan Rosen,2020,3,1,2
+Dan Rosen,2020,4,2,1
+Dan Rosen,2020,5,0,2
+Dan Rosen,2020,6,0,1
+Dan Rosen,2020,7,1,0
+Dan Rosen,2020,8,0,0
+Dan Rosen,2020,9,0,0
+Dan Rosen,2020,10,0,0
+Dan Rosen,2020,11,0,0
+Dan Rosen,2020,12,0,0
+Will,2019,1,0,0
+Will,2019,2,0,0
+Will,2019,3,0,1
+Will,2019,4,1,4
+Will,2019,5,3,3
+Will,2019,6,3,2
+Will,2019,7,4,3
+Will,2019,8,3,4
+Will,2019,9,4,5
+Will,2019,10,8,1
+Will,2019,11,8,3
+Will,2019,12,5,5
+Will,2020,1,5,3
+Will,2020,2,4,6
+Will,2020,3,5,5
+Will,2020,4,6,2
+Will,2020,5,2,5
+Will,2020,6,5,2
+Will,2020,7,5,1
+Will,2020,8,0,0
+Will,2020,9,0,0
+Will,2020,10,0,0
+Will,2020,11,0,0
+Will,2020,12,0,0
+Do-Hee Kim,2019,1,0,0
+Do-Hee Kim,2019,2,0,0
+Do-Hee Kim,2019,3,0,0
+Do-Hee Kim,2019,4,1,1
+Do-Hee Kim,2019,5,0,2
+Do-Hee Kim,2019,6,1,2
+Do-Hee Kim,2019,7,4,0
+Do-Hee Kim,2019,8,2,2
+Do-Hee Kim,2019,9,4,2
+Do-Hee Kim,2019,10,1,6
+Do-Hee Kim,2019,11,2,3
+Do-Hee Kim,2019,12,1,2
+Do-Hee Kim,2020,1,0,0
+Do-Hee Kim,2020,2,0,0
+Do-Hee Kim,2020,3,0,0
+Do-Hee Kim,2020,4,0,0
+Do-Hee Kim,2020,5,0,0
+Do-Hee Kim,2020,6,0,0
+Do-Hee Kim,2020,7,0,0
+Do-Hee Kim,2020,8,0,0
+Do-Hee Kim,2020,9,0,0
+Do-Hee Kim,2020,10,0,0
+Do-Hee Kim,2020,11,0,0
+Do-Hee Kim,2020,12,0,0
+Zack Shapiro,2019,1,0,0
+Zack Shapiro,2019,2,0,0
+Zack Shapiro,2019,3,0,0
+Zack Shapiro,2019,4,2,0
+Zack Shapiro,2019,5,2,1
+Zack Shapiro,2019,6,3,1
+Zack Shapiro,2019,7,2,5
+Zack Shapiro,2019,8,4,4
+Zack Shapiro,2019,9,3,5
+Zack Shapiro,2019,10,7,4
+Zack Shapiro,2019,11,5,5
+Zack Shapiro,2019,12,6,3
+Zack Shapiro,2020,1,3,3
+Zack Shapiro,2020,2,1,5
+Zack Shapiro,2020,3,3,5
+Zack Shapiro,2020,4,5,5
+Zack Shapiro,2020,5,4,7
+Zack Shapiro,2020,6,3,6
+Zack Shapiro,2020,7,1,4
+Zack Shapiro,2020,8,0,0
+Zack Shapiro,2020,9,0,0
+Zack Shapiro,2020,10,0,0
+Zack Shapiro,2020,11,0,0
+Zack Shapiro,2020,12,0,0
+Hannah Iaccarino,2019,1,0,0
+Hannah Iaccarino,2019,2,0,0
+Hannah Iaccarino,2019,3,0,0
+Hannah Iaccarino,2019,4,0,0
+Hannah Iaccarino,2019,5,3,2
+Hannah Iaccarino,2019,6,1,1
+Hannah Iaccarino,2019,7,2,2
+Hannah Iaccarino,2019,8,0,0
+Hannah Iaccarino,2019,9,0,1
+Hannah Iaccarino,2019,10,0,1
+Hannah Iaccarino,2019,11,0,1
+Hannah Iaccarino,2019,12,0,1
+Hannah Iaccarino,2020,1,0,0
+Hannah Iaccarino,2020,2,0,0
+Hannah Iaccarino,2020,3,0,1
+Hannah Iaccarino,2020,4,0,1
+Hannah Iaccarino,2020,5,0,1
+Hannah Iaccarino,2020,6,0,1
+Hannah Iaccarino,2020,7,0,0
+Hannah Iaccarino,2020,8,0,0
+Hannah Iaccarino,2020,9,0,0
+Hannah Iaccarino,2020,10,0,0
+Hannah Iaccarino,2020,11,0,0
+Hannah Iaccarino,2020,12,0,0

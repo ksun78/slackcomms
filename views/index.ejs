@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Productive Metrics</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+</head>
+
+<body>
+  <h1 class="page-heading">Productive Metrics - Company A -  Sales Team</h1>
+  <div class="display-container">
+    <div class="button-container">
+      <button id="tab0Button">Popularity & Influence</button>
+      <!-- <button id="tab1Button" disabled>Reliability</button>
+      <button id="tab2Button" disabled>Response Time</button>
+      <button id="tab3Button" disabled>Message Length</button> -->
+    </div>
+    <div class="tab" id="tab0">
+
+      <div class="logo-div">
+        <img src="images/productive_metrics.png" alt="productive-metrics-logo" width="150" height="150">
+      </div>
+      
+      <div class="slider-container">
+        <div id="slider"></div>
+      </div>
+        
+
+
+      <div class="tab-content" id="tab0Content">
+        <!-- Data viz goes in here, placed here by d3 code -->
+      </div>
+
+      <div id="tableContainer">
+        <p>Leaderboard: Conversations</p>
+        <table class="influence-table">
+          <thead>
+          <tr><th>Name</th><th>Conversations Started</th><th>Conversations Received</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+    </div>
+    <!-- <div class="tab" id="tab1">
+      <div class="tab-content" id="tab1Content">Tab 2 Content</div>
+    </div>
+    <div class="tab" id="tab2">
+      <div class="tab-content" id="tab2Content">Tab 3 Content</div>
+    </div>
+    <div class="tab" id="tab3">
+      <div class="tab-content" id="tab3Content">Tab 4 Content</div>
+    </div> -->
+    
+    
+    
+  </div>
+
+  <script src="https://d3js.org/d3.v5.min.js" defer></script>
+  <script type="module" src="user-influence-viz.js" defer></script>
+  <script src="javascripts/bundle.js" defer></script>
+</body>
+
+</html>
